@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2064
     wikipedia: http://en.wikipedia.org/wiki/David_Masson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35438#The-Three-Devils--Luther-s-Milton-s-and-Goethe-sWith-Other-Essays
 gutenberg_issued: '2011-03-01'
 gutenberg_type: Text
 identifiers:
